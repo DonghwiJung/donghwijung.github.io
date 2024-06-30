@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/donghwijung'><img src="assets/img/github-mark.png" style="width:15px;"/> github</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'><img src="assets/img/linkedin_logo.png" style="width:15px;"/> LinkedIn</a>.
+subtitle: <a href='https://github.com/donghwijung'><img src="assets/img/github-mark.png" style="width:15px;"/> github</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'><img src="assets/img/linkedin_logo.png" style="width:15px;"/> LinkedIn</a>
 
 profile:
   align: right
