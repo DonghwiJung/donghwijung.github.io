@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/donghwijung'><img src="assets/img/github-mark.png" /> github</a>.
+subtitle: <a href='https://github.com/donghwijung'><img src="assets/img/github-mark.png" id="github_img" style="width:15px;"/> github</a>.
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
       <p>Robotics Researcher</p>
-      <p>SLAM, Mapping, Localization</p>
-      <p>LiDAR, Camera, IMU</p>
+      <p>SLAM, Mapping, and Localization</p>
+      <p>LiDAR, Camera, and IMU</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello, I am Donghwi Jung Ph.D. candidate studying at the [Autonomous Robot Intelligence Lab](https://arisnu.squarespace.com/) in [Seoul National University](https://en.snu.ac.kr/).
+Hello, I am Donghwi Jung, a Ph.D. candidate studying at the [Autonomous Robot Intelligence Lab](https://arisnu.squarespace.com/) at [Seoul National University](https://en.snu.ac.kr/).
 
-My research area includes SLAM, Mapping, Localization based on multi-modal sensors (LiDAR, Camera, IMU, ...) through various environments (indoor, outdoor, off-road, underwater).
-
+My research area includes SLAM, mapping, and localization based on multi-modal sensors (LiDAR, camera, IMU, etc.) through various environments (indoor, outdoor, off-road, and underwater)."
