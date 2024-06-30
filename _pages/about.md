@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/donghwijung'><img src="assets/img/github-mark.png" style="width:15px;"/> github</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'><img src="assets/img/linkedin_logo.png" style="width:15px;"/> LinkedIn</a>
+subtitle: <a href='mailto:donghwijung@snu.ac.kr'>email</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://github.com/donghwijung'>github</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'>LinkedIn</a>
 
 profile:
   align: right
@@ -26,4 +26,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello, I am Donghwi Jung, a Ph.D. candidate studying at the [Autonomous Robot Intelligence Lab](https://arisnu.squarespace.com/) at [Seoul National University](https://en.snu.ac.kr/).
 
-My research area includes SLAM, mapping, and localization based on multi-modal sensors (LiDAR, camera, IMU, etc.) through various environments (indoor, outdoor, off-road, underwater, etc.)."
+My research area includes SLAM, mapping, and localization based on multi-modal sensors (LiDAR, camera, IMU, etc.) through various environments (indoor, outdoor, off-road, underwater, etc.).
