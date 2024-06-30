@@ -2,7 +2,7 @@
 layout: page
 title: LIMBO
 description: LIMBO (Language-Image-based Mobile Robot)
-img: assets/img/limbo.jpg
+img: assets/img/limbo.png
 importance: 1
 category: academic
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/limbo.jpg" title="limbo" %}
+    {% include figure.liquid path="assets/img/limbo.png" title="limbo" %}
   </div>
 </div>
 

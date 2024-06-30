@@ -2,7 +2,7 @@
 layout: page
 title: Loki
 description: Autonomous vehicle
-img: assets/img/loki_donghwi.jpg
+img: assets/img/loki.png
 importance: 3
 category: academic
 related_publications: true
@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/loki_donghwi.jpg" title="loki" %}
+    {% include figure.liquid path="assets/img/loki.png" title="loki" %}
   </div>
 </div>
 

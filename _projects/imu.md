@@ -8,11 +8,11 @@ category: academic
 related_publications: false
 ---
 
-<!-- <div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/imu.jpg" title="imu" %}
   </div>
-</div> -->
+</div>
 
 We researched a pose estimation algorithm that tracks the pose of a painting robot in the shipyard.
 
