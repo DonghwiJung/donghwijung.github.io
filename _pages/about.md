@@ -24,6 +24,6 @@ Donghwi Jung, a Ph.D. candidate studying at the [Autonomous Robot Intelligence L
 Research Area:
 SLAM, mapping, and localization based on multi-modal sensors (LiDAR, camera, IMU, etc.) through various environments (indoor, outdoor, off-road, underwater, etc.).
 
-Academe Activities:
+Academic Activities:
 Reviewer of [IEEE International Conference on Robotics and Automation (ICRA), 2024](https://2024.ieee-icra.org/).
-Visiting research (July 2023 - February 2024) at the [Active Perception and Robot Intelligence Lab](https://janeshin-website.github.io/) in the [Department of Mechanical Engineering department](https://mae.ufl.edu/) at the [University of Florida](https://mae.ufl.edu/).
+Visiting research (July 2023 - February 2024) at the [Active Perception and Robot Intelligence Lab](https://janeshin-website.github.io/) in the [Department of Mechanical and Aerospace Engineering](https://mae.ufl.edu/) at the [University of Florida](https://mae.ufl.edu/).
