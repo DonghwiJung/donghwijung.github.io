@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/limbo.png" title="limbo" %}
+    {% include figure.liquid path="assets/img/e2map_system.png" title="limbo" %}
   </div>
 </div>
 
@@ -18,4 +18,4 @@ We built a mobile robot system designed to navigate to a specified goal by follo
 
 This platform consists of rule-based modules and visual language model-based modules.
 
-In this project, I was in charge of visual language-based localization.
+In this project, I was in charge of visual language-based mapping and localization.
