@@ -5,7 +5,7 @@ description: LIMBO (Language-Image-based Mobile Robot)
 img: assets/img/limbo.png
 importance: 1
 category: academic
-related_publications: false
+related_publications: true
 ---
 
 <div class="row justify-content-sm-center">
@@ -19,3 +19,5 @@ We built a mobile robot system designed to navigate to a specified goal by follo
 This platform consists of rule-based modules and visual language model-based modules.
 
 In this project, I was in charge of visual language-based mapping and localization.
+
+{% cite kim2024e2map %}

@@ -5,7 +5,7 @@ description: DBO (Dating coaching BOt)
 img: assets/img/publication_preview/dbo.png
 importance: 7
 category: academic
-related_publications: false
+related_publications: true
 ---
 
 <div class="row justify-content-sm-center">

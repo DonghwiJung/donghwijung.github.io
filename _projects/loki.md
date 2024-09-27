@@ -2,16 +2,16 @@
 layout: page
 title: Loki
 description: Autonomous vehicle
-img: assets/img/loki.png
+img: assets/img/loki.jpg
 importance: 3
 category: academic
 related_publications: true
 ---
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/loki.png" title="loki" %}
-  </div>
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/loki.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 </div>
 
 We built an autonomous vehicle by modifying a golf cart, and it operated around the Seoul National University campus.
