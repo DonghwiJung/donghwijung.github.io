@@ -8,11 +8,11 @@ category: academic
 related_publications: false
 ---
 
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/e2map_system.png" title="limbo" %}
   </div>
-</div>
+</div> -->
 
 <div class="row mt-3">
     <div class="col-sm-12 mt-3 mt-md-0">
